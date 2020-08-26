@@ -1,0 +1,6 @@
+dependencies:
+- name: stateless
+  repository: https://k8sexample.github.io/helm-charts/
+  version: 0.1.0
+digest: sha256:86967b685e3f79857cf515bb48e64a480f6cf4442072713ac1dc80d43c5c6dec
+generated: "2020-08-26T19:12:47.262471+03:00"
