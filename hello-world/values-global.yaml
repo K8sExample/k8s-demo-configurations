@@ -2,3 +2,4 @@ hello-world:
   image:
     repository: gcr.io # OPTIONAL - default is docker.io
     folder: google-samples # OPTIONAL - default is the directory name or name if stated
+    name: hello-app
